@@ -5,8 +5,8 @@ training: true
 freebie: false
 ---
 
-# Create a HelloWorld component
+# Create a GoodbyeWorld component
 
-The challenge is to create a file `src/components/HelloWorld.vue` that takes a `msg` prop and prints it inside an H1 tag.
+The challenge is to create a file `src/components/GoodbyeWorld.vue` that takes a `msg` prop and prints it inside an H2 tag.
 
 Good luck! 😉
