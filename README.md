@@ -1,9 +1,6 @@
 ---
 difficulty: 1
 tags: vue, props
-training: true
-freebie: true
-chapter: "3. Coding Time"
 ---
 
 # Create a GoodbyeWorld component
