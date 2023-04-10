@@ -2,7 +2,7 @@
 difficulty: 1
 tags: vue, props
 training: true
-freebie: false
+freebie: true
 ---
 
 # Create a GoodbyeWorld component
