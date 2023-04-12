@@ -3,6 +3,7 @@ difficulty: 1
 tags: vue, props
 training: true
 freebie: true
+Chapter: "3. Rocking"
 ---
 
 # Create a GoodbyeWorld component
